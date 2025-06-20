@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>CTIS - Crypto Trading Information System</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="db.js"></script>
+    <script src="project.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="overlay"></div>
+    <div class="container">
+      <header class="head">
+        <h2>CTIS</h2>
+        <span style="font-size: 18px">Crypto Trading Information System</span>
+      </header>
+      <div class="newProfile">
+        <div class="content">
+          <h2>New Profile</h2>
+          <input
+            type="text"
+            name="newProfile"
+            placeholder="Enter new profile..."
+          />
+          <button>Add</button>
+        </div>
+      </div>
+      <section class="profiles">
+        <p id="empty">Empty</p>
+        <!-- <i class="fa-solid fa-circle-xmark">X</i> -->
+      </section>
+      <footer class="bottom">
+        <button>
+          <span style="font-size: 25px">+</span>
+          <span>New Profile</span>
+        </button>
+      </footer>
+    </div>
+
+    <!-- <div class="profile-screen" data-id="1"> -->
+    <!-- Burada her profil için farklı bir ID kullanın -->
+    <!-- Profil ekranı içeriği -->
+    <!-- <button type="button" id="next">Next day</button> -->
+    <!-- </div> -->
+  </body>
+</html>
