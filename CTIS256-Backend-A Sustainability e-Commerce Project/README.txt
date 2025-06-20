@@ -1,7 +1,9 @@
-- Please check the file "db.php" and reconfigure your dbname and password according to your account to log in your local phpmyadmin correctly.-
+- You have to setup a WAMP/XAMPP or that kind of server application that runs php engine to view this project. 
+- Please check the file "db.php" and reconfigure your dbname and password according to your local account to log in your local phpmyadmin correctly.-
 - After that, please drag the "db.sql" file into your database to see sample data.
 
-- phpmyadmin hesabınıza doğru şekilde giriş yapabilmek için lütfen db.php dosyasındaki değerleri hesabınıza göre güncelleyin.
+- Bu projeyi görüntülemek için WAMP/XAMPP veya bu tür php motoru çalıştıran sunucu uygulaması kurmanız gerekmektedir.
+- phpmyadmin hesabınıza doğru şekilde giriş yapabilmek için lütfen db.php dosyasındaki değerleri yerel hesabınıza göre güncelleyin.
 - Bundan sonra lütfen "db.sql" dosyasını veritabanınızın içine örnek verileri görmek için yükleyin. 
 
 Example: 
