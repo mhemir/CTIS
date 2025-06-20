@@ -1,0 +1,5 @@
+1 4 UmutGüçlü NationalGeographicTürkiye
+2 5 HüseyinDönmez Lezzet
+3 3 HasanKutlu BirGünTekBaşına
+4 7 MustafaÖztürk MesnevidenDersAldim
+5 1 AhmetÖzer DenizlerAltındaYirmiBinFersah

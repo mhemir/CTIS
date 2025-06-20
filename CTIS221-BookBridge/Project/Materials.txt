@@ -1,0 +1,22 @@
+MAGAZINE 14 Elele KürşatBaşar 567 65 5 DoğanBurdaDergi Social 34
+BOOK Deneme 3 SaatleriAyarlamaEnstitüsü AhmetHamdiTanpınar 200 120 1 DergahYayınları
+MAGAZINE 1 ŞamdanPlus MustafaYÜCE 124 24 2 ŞamdanYayıncılık Fashion 67
+BOOK Hikaye 2 KürkMantoluMadonna SabahattinAli 160 130 5 YapıKrediYayınları
+BOOK Roman 17 Çalıkuşu ReşatNuriGüntekin 150 200 3 ÖtükenNeşriyat
+MAGAZINE 6 Lezzet SermetSeveröz 45 20 1 DoğanBurdaDergi Gastronomy 55
+BOOK Roman 7 Kaşağı ÖmerSeyfettin 145 220 1 CanYayınları
+BOOK Roman 20 Tutunamayanlar OğuzAtay 724 277 5 İletişimYayınları
+MAGAZINE 13 SabahYıldızı NedimGürsel 123 30 1 TürkiyeİşBankasıKültürYayınları News 90
+MAGAZINE 19 BlueJean TolgaAkyıldız 678 45 1 DoğanBurdaDergi PopularCulture 100
+BOOK Gezi 9 BirGünTekBaşına VedatTürkali 675 89 3 YapıKrediYayınları
+BOOK Şiir 10 Huzur AhmetHamdiTanpınar 345 67 2 DergahYayınları
+MAGAZINE 11 Atlas TevfikTaş 234 45 2 DoğanBurdaDergi Documentary 78
+MAGAZINE 18 Kaçkar HasanÖRÜCÜ 345 12 10 YapıKrediYayınları Social 10
+MAGAZINE 4 Psikeart ErtuğrulÖzkök 100 66 5 PsikeartYayıncılık Social 34
+BOOK Roman 16 İnceMemed YaşarKemal 130 150 7 YapıKrediYayınları
+BOOK Roman 15 Serenad ZülfüLivaneli 900 90 1 DoğanKitap
+MAGAZINE 8 BilimveTeknik YavuzEROL 343 100 1 TÜBİTAK Science 13
+BOOK Deneme 5 MontaigneDenemeleri Montaigne 200 300 2 DoğanKitap
+MAGAZINE 12 NationalGeographicTürkiye ChrisJohns 100 25 1 RBAYayıncılık Travel 12
+BOOK Roman 21 DenizlerAltındaYirmiBinFersah JulesVerne 100 150 1 ÖtükenNeşriyat 
+MAGAZINE 22 MesnevidenDersAldim Mevleviler 45 60 4 DergahYayınları Science 15
